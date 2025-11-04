@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! 
 ## 🏅 Oracle Certification
 <p align="center">
- 
+ <a>
   <img src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=36FC637B13D291A0370ECAC8D84B2599BE470826E18A0A1B469A15B58FA788FB" alt="Oracle AI Foundation Associate Certification" width="120" />
-  <img src="[[BADGE_LINK_4](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1629D855732D6D7E164DB4A5463347895B9121ECE9B781EEEB7CA9DF0B8D7770)](https://login-ext.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&IDCS_CG_ENC_VER=v2&state=ILP2JmJL4bnDbHV4nepYt66ZZuFQBn76d2OgLeWB4kA&nonce=Hk0wGAbmvIJ0K4hrE2CoNZfhwVxwNUFDYXjCTtgRk3o&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=brm-certview.oracle.com&idcs_app_name=5902a0bddcaa4bfa9a7f44bd912c2472&idcs_app_resource_url=https%3A%2F%2Fbrm-certview.oracle.com%3A443%2Fords%2Fcertview%2Fp_get_ocp_logo%3Fp_id%3D1992&client_id=25824ed483714daeb16fde7c153e0c09&IDCS_CG_ENC=true&enc=lr0TT-UEsWc8AgAAAgIAABAgAgIAAOgBAAAQAA9bXqvGPHOb6Zg9eJH-7mink4SfL_QB9N55otdRGAIDY--5S9HOonn80czrt0-QnnfTIbkSGfwgJCXwD3G6DOFa9lUMEI0XFottn3q9rmcjMQ-VuEAcgkDRpIb_D7rX0MFGBTJ5smGqCb1JHrGTdMgNrKUWW4qwGirga4vfVHNQ_RrgYufSTyObRsDy4sa0goRP94DKFYeWUOgdhNX7DBEgsrkzYMxt5x0TIuq126AkKA_G5WieUM6qawCaVS5egrNWi2NAMtEqQ5PLc21HpqpTnqAnl0fcHxtk24uReBamb_83-w4BDi28utO95HLEgELjBOEBfdk5T_gSr26wS0JNPt4mB6bKJaGucsMnN8GCWxUHXMnCObKxS4txTz4G5uHQhZelZx4jG-pWkf4tTvq7ehXgk5bhSFzNTGyq1W7hxKJc788-KvEukiqElGaeMcyx2J_GJTRSv20jDVILrVAVOu0ZKoBI9Z16VI-S93MnDq6MXQezRr-uF19DWiUPOHSzsD7Ss6kkBIQa3JOKTbDiZx7J3VwvpIIN1GEZSXwR4UcQ1Gb9sFzE43Lwjg1Ph_l57zvA8owRQJIkcVfLKCWXyUHip9AG6JABYjyf4keFWHyvtidADsdDk0xHXjcojWDQToxdxjYdkvCH9xA5uCtfn5MFTpN0Ak5SVFUmv1awTuTlzAB594aBfiMbJjBYj1DlK0mNMlXI9OO-7VNQzco9TKVH4c0lYw)" alt="Oracle Cloud Infrastructure GenAI Professional" width="120" />
+  <img src="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1629D855732D6D7E164DB4A5463347895B9121ECE9B781EEEB7CA9DF0B8D7770" alt="Oracle Cloud Infrastructure GenAI Professional" width="120" />
+ </a>
 </p>
